@@ -1,0 +1,42 @@
+baseURL = "http://psycamp.am/"
+#languageCode = "hy-AM"
+title = "psycamp"
+theme = "beautifulhugo"
+#theme = "minimo"
+email = "norayr@arnet.am"
+description = "Հողաթափերով Հոգեբանություն"
+
+[[menu.main]]
+  name = "հոսք"
+  url  = ""
+  weight = 1
+
+[[menu.main]]
+  name = "մասնակցություն"
+  url  = "մասնակցություն"
+  weight = 2
+
+ [[menu.main]]
+   name = "պրեզենտացիաներ"
+   url  = "պրեզենտացիաներ"
+   weight = 3
+
+[[menu.main]]
+   name = "նյութեր"
+   url  = "նյութեր"
+   weight = 4
+
+[[menu.main]]
+   name = "հոլովակներ"
+   url  = "հոլովակներ"
+   weight = 5
+
+[[menu.main]]
+   name = "մեր աջակիցները"
+   url  = "մեր_աջակիցները"
+   weight = 6
+
+[[menu.main]]
+   name = "մեր մասին"
+   url  = "մեր_մասին"
+   weight = 7
