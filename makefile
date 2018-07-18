@@ -1,0 +1,4 @@
+
+
+all:
+		hugo server -D
