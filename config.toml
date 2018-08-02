@@ -1,5 +1,5 @@
-#baseURL = "http://psycamp.am/"
-baseURL = "http://lab.am/psycamp/"
+baseURL = "http://psycamp.am/"
+#baseURL = "http://lab.am/psycamp/"
 #languageCode = "hy-AM"
 title = "psycamp"
 theme = "beautifulhugo"
