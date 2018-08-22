@@ -1,6 +1,9 @@
 
 
-all:
+default:
+		hugo --buildFuture
+
+test:
 		hugo server -D
 
 sync:
